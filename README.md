@@ -1,0 +1,2 @@
+# PythonAIWorkshopPartII
+UM devClub
